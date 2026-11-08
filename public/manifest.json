@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "MT - WMS CD Trevo",
+  "short_name": "MT-WMS",
+  "description": "Sistema Operacional e Retorno de Atividades - CD MT Trevo (Perlog / Grupo Pereira)",
+  "start_url": "/?origem=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#051336",
+  "theme_color": "#051336",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

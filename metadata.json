@@ -1,0 +1,6 @@
+{
+  "name": "WMS CD MT Trevo - Gestão de Produtividade e Apontamento",
+  "description": "Sistema operacional e apontamento de atividades para o Centro de Distribuição Trevo (Perlog). Substituto inteligente do Google Forms com cálculo automático de produtividade, metas e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
